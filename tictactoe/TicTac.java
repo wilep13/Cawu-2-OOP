@@ -1,6 +1,6 @@
 package tictactoe;
 
-public class TicTac {	
+public class TicTac {
 	public TicTac() {
 		startGame start = new startGame();
 		start.GameStart();

@@ -26,7 +26,7 @@ public class play {
 		do {
 			board.printBoard(papan);
 			do {
-				System.out.println("Please input the coordinate [row column]: ");
+				System.out.println("Please input the coordinate [row column] must number: ");
 				
 				if(move % 2 == 0) {
 					System.out.println("Player 1 [x]");
